@@ -1,0 +1,17 @@
+可替代摄像机1：过肩摄像机
+https://dev.epicgames.com/community/learning/courses/aLV/unreal-engine-2e783f/dLkL/unreal-engine-1
+
+利用状态机和倾斜动画扩展动画蓝图
+https://dev.epicgames.com/community/learning/courses/aLV/unreal-engine-2e783f/jOo4/unreal-engine-073057
+
+给角色跳跃功能
+https://dev.epicgames.com/community/learning/courses/aLV/unreal-engine-2e783f/ryl2/unreal-engine-54599c
+在动画蓝图中添加跳跃动画
+https://dev.epicgames.com/community/learning/courses/aLV/unreal-engine-2e783f/YDEO/unreal-engine-8a1356
+添加额外的跳跃和落地动画
+https://dev.epicgames.com/community/learning/courses/aLV/unreal-engine-2e783f/7x1y/unreal-engine-9d0756
+
+在跳跃系统中添加喷气包
+https://dev.epicgames.com/community/learning/courses/aLV/unreal-engine-2e783f/ormG/unreal-engine-0e1b4d
+完善喷气包功能
+https://dev.epicgames.com/community/learning/courses/aLV/unreal-engine-2e783f/19rV/unreal-engine-e703db

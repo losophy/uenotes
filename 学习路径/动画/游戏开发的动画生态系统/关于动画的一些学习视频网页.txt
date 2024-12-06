@@ -1,0 +1,15 @@
+角色蹲伏功能、给状态机添加动画
+https://dev.epicgames.com/community/learning/courses/zPp/unreal-engine-a241b2/qMp5/unreal-engine-990865
+https://dev.epicgames.com/community/learning/courses/zPp/unreal-engine-a241b2/5w5O/unreal-engine-2f5705
+
+剪切和替换动画
+https://dev.epicgames.com/community/learning/courses/zPp/unreal-engine-a241b2/DJW1/unreal-engine-582b2e
+
+使用插槽给角色添加武器
+https://dev.epicgames.com/community/learning/courses/zPp/unreal-engine-a241b2/mJj1/unreal-engine-4f2629
+
+切换不同的武器附着点
+https://dev.epicgames.com/community/learning/courses/zPp/unreal-engine-a241b2/KwWp/unreal-engine-fbb062
+在任何动作中丝滑切换武器
+https://dev.epicgames.com/community/learning/courses/zPp/unreal-engine-a241b2/9Gld/unreal-engine-eb3306
+https://dev.epicgames.com/community/learning/courses/zPp/unreal-engine-a241b2/l4py/unreal-engine-slot
