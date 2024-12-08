@@ -1,0 +1,7 @@
+创建HUD在关卡中展示目的地（利用HUD蓝图在屏幕上显示图标，指示玩家前往预期的目的地。）
+https://dev.epicgames.com/community/learning/courses/lzk/unreal-engine-d556a7/73Ga/unreal-engine-fcfcf4
+https://dev.epicgames.com/community/learning/courses/lzk/unreal-engine-d556a7/oP2e/unreal-engine-hud
+
+在屏幕上显示玩家需要在城镇大厅完成的玩家目标（显示目的地，跑到目的地碰撞碰撞体积就完成）
+https://dev.epicgames.com/community/learning/courses/lzk/unreal-engine-d556a7/DJV8/unreal-engine-55717f
+https://dev.epicgames.com/community/learning/courses/lzk/unreal-engine-d556a7/qMdY/unreal-engine-e5a522
