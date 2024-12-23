@@ -1,2 +1,10 @@
 如何在虚幻引擎5中循环播放背景音乐
 https://www.bilibili.com/video/BV1Bs4y1F7Bx/?spm_id_from=333.337.search-card.all.click&vd_source=f15218d4557891f4d1508f05c02a28c6
+
+
+UE5教程-添加声音
+https://www.bilibili.com/video/BV15r42177R7/?spm_id_from=333.337.search-card.all.click&vd_source=f15218d4557891f4d1508f05c02a28c6
+UE5教程-创建控制声音UI并设置暂停（Widget）
+https://www.bilibili.com/video/BV1eb421b71m?spm_id_from=333.788.player.switch&vd_source=f15218d4557891f4d1508f05c02a28c6
+UE5教程-设置全局音量控制并让滑条记住位置
+https://www.bilibili.com/video/BV15M4m1C7LW?spm_id_from=333.788.player.switch&vd_source=f15218d4557891f4d1508f05c02a28c6
