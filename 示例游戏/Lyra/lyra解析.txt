@@ -1,0 +1,19 @@
+内容文件夹仅包含常规资产和主大厅
+
+插件文件夹包含用于创建Lyra新手游戏的不同核心元素
+
+# 插件
+-LyraExampleContent
+Lyra示例内容（Lyra Example Content）	包含共享的材质，例如网格。
+
+-GameFeatures
+设计游戏核心内容（Shooter Core Content）	LyraShooterGame体验的核心元素。其中包括用于游戏模式的Gameplay逻辑、特定Gameplay能力（例如"猛冲"）以及适用于各种Actor的蓝图，例如传送点和手雷、机器人、武器和用户界面元素。
+ShooterMaps元素（ShooterMaps Content）	LyraShooterGame（广阔区域和盘旋）使用的地图，具有关联的材质和内容。
+TopDownArena内容（TopDownArena Content）	TopDownArena体验的内容，包括从地图生成器到道具的各种内容。
+
+-CommonUser
+通用用户插件 OSS设计为一种通用接口，用于访问特定于平台的功能，例如登录、身份验证和多玩家会话。它提供了一种标准接口，可从通用虚幻引擎代码中调用，以执行各种操作。
+
+-GAS
+
+-GameSettings
